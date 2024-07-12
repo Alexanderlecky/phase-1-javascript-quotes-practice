@@ -1,3 +1,44 @@
 #quote-list {
   padding: 20px;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+}
+form {
+  margin-bottom: 20px;
+  text-align: center;
+}
+input {
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+}
+button {
+  padding: 10px 20px;
+}
+.quote-card {
+  list-style: none;
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.btn-success {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.btn-danger {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
